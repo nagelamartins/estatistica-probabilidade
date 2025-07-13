@@ -1,4 +1,4 @@
-# Vamos conversar sobre Estatística e Probabilidade? 📊
+# Vamos conversar sobre Estatística e Probabilidade? 🎲
 
 Este projeto foi desenvolvido a partir dos conhecimentos adquiridos em um curso da [PrograMaria](https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/) e **foi meu primeiro site desenvolvido do zero!** 
 
