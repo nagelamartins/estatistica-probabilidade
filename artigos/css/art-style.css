@@ -17,6 +17,26 @@ h1 {
     color: 	#E0F7FA;
 } 
 
+.menu {
+    text-align: right;
+    padding: 0;
+    border-bottom: 2px solid #364F6B;
+    line-height: 0;
+}
+
+.menu li{
+    display: inline-block;
+    list-style-type: none;
+    line-height: normal;
+    margin: 0 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    font-weight: 700;
+    color: 	#364F6B;
+}
+
 article {
     width: 60%;
     text-align: left;
