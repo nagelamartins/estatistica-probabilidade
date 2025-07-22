@@ -21,8 +21,7 @@ Este projeto foi desenvolvido utilizando tecnologias front-end básicas, focando
 
 ## 🚀 Como Acessar
 
-Você pode visualizar o site diretamente online através do link:
-[https://nagelamartins.github.io/estatistica-probabilidade/](https://nagelamartins.github.io/estatistica-probabilidade/)
+Você pode visualizar o site diretamente online clicando [aqui.](https://nagelamartins.github.io/estatistica-probabilidade/)
 
 ## ⚠️ Observação Importante
 
@@ -32,8 +31,8 @@ Este é um projeto inicial e foi desenvolvido com foco em layouts para **telas d
 
 Fique à vontade para me conectar em minhas redes sociais ou enviar um e-mail:
 
-* **LinkedIn:** [https://www.linkedin.com/in/nagelamartins/](https://www.linkedin.com/in/nagelamartins/)
-* **GitHub:** [https://github.com/nagelamartins](https://github.com/nagelamartins)
+* [**LinkedIn**](https://www.linkedin.com/in/nagelamartins/)
+* [**GitHub**](https://github.com/nagelamartins)
 * **E-mail:** nagela.msouza@gmail.com
 
 ---
